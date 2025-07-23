@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a last-year PhD student in the Department of Computer Science, University of Illinois at Urbana-Champaign. Previously, I received my bachelor's degree in Computer Science and Technology, Shanghai Jiao Tong University.
+I am a final-year Ph.D. student in the Department of Computer Science at the University of Illinois at Urbana–Champaign. Prior to this, I earned my bachelor's degree in Computer Science and Technology from Shanghai Jiao Tong University.
 
-My research interests lie in LLM, Long-form Text Generation, Knowledge-Augmented Generation, and LLM Reasoning.
+My research interests include large language models (LLMs), long-form text generation, knowledge-augmented generation, and reasoning with LLMs.
 
 [//]: # (This is the front page of a website that is powered by the [Academic Pages template]&#40;https://github.com/academicpages/academicpages.github.io&#41; and hosted on GitHub pages. [GitHub pages]&#40;https://pages.github.com&#41; is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme]&#40;https://mmistakes.github.io/minimal-mistakes/&#41; created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!)
 
