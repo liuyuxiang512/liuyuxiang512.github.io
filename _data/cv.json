@@ -33,29 +33,29 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Illinois at Urbana-Champaign",
+      "area": "Ph.D in Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2020",
+      "endDate": "2026",
       "gpa": null,
       "courses": []
     },
+//    {
+//      "institution": "GitHub University",
+//      "area": "M.S. in Jekyll",
+//      "studyType": "",
+//      "startDate": "",
+//      "endDate": "2014",
+//      "gpa": null,
+//      "courses": []
+//    },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Shanghai Jiao Tong University",
+      "area": "B.S. in Computer Science and Technology",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2016",
+      "endDate": "2020",
       "gpa": null,
       "courses": []
     }
